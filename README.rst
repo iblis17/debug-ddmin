@@ -6,6 +6,7 @@ HW2
 ----
 
 ::
+ 
  $ cd xmlproc
  $ python ddmin.py
    ERROR: Character data not allowed outside root element at /home/iblis/doc/debug/project2/xmlproc/tmp/tmpfJWCkQ:1:5
